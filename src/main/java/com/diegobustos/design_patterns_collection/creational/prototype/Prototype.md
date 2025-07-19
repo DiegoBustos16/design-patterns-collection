@@ -22,8 +22,8 @@ Then, a concrete class `F1Car` implements that interface. By implementing the `c
 
 ## Client Usage
 ```java
-RacingCarPrototype prototypeCar = new F1Car(350);
-RacingCarPrototype clonedCar = (F1Car) prototypeCar.clone();
+F1Car prototypeCar = new F1Car(350);
+F1Car clonedCar = (F1Car) prototypeCar.clone();
 
 prototypeCar.showTopSpeed();
 clonedCar.showTopSpeed();
