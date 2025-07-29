@@ -39,7 +39,9 @@ These patterns deal with how classes and objects are composed to form larger str
 - [Facade](./src/main/java/com/diegobustos/design_patterns_collection/structural/facade/Facade.md)  
   
 - [Proxy](./src/main/java/com/diegobustos/design_patterns_collection/structural/proxy/Proxy.md)  
-  
+
+- [Adapter](./src/main/java/com/diegobustos/design_patterns_collection/structural/adapter/Adapter.md)
+
 ---
 
 ### 🏃 Behavioral Patterns
